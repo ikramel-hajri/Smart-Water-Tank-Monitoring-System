@@ -44,11 +44,11 @@ The system's hardware components are intricately connected to ensure seamless fu
 ## Basic Block Diagram and Flow Charts
 1. **Block Diagram:**
    - The system's architecture can be represented through a comprehensive block diagram, illustrating the interconnections between key components.
-     ![block digram](img/block diagram.png)
+     ![block_digram](img/block_diagram.png)
 
 2. **Flow Chart:**
    - The flow chart delineates the sequential steps and decision points within the system. It includes the following key processes: Data Acquisition, Actuation, Communication, Data Visualization, and User Interaction.
-     ![flow chart](img/flow chart.png)
+     ![flow_chart](img/flow_chart.png)
 
 ## System Design and Implementation
 ### Hardware Implementation
